@@ -1,4 +1,1 @@
-// javaScript to be added
-// Hola Laura supongo que te apasiona github
-// Hola David gracias por tus modificaciones. EDIT: ok 
-// Editar lo editado again en una nueva rama
+// No me gusta nada de lo que he leido, asi que lo he borrado todo.
